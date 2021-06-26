@@ -1,0 +1,2 @@
+C:\Users\sahar.r\Desktop\nopcommerce\Plugins\Nop.Plugin.Widget.PlugPrinceChart\bin\Release\Nop.Plugin.Widget.PlugPrinceChart.dll
+C:\Users\sahar.r\Desktop\nopcommerce\Plugins\Nop.Plugin.Widget.PlugPrinceChart\bin\Release\Nop.Plugin.Widget.PlugPrinceChart.pdb

@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Price Chart
+SystemName: Widgets.PlugPrinceChart
+Version: 1.0
+SupportedVersions: 3.90
+Author: Morteza kalaateh
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.PlugPrinceChart.dll
+Description: This plugin integrates with Google Analytics. It keeps track of statistics about the visitors and ecommerce conversion on your website
